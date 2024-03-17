@@ -5,7 +5,6 @@
 ### Educational Background
 * M.Sc. in Electrical Engineering at University of Stuttgart (2020-2023)
 * Master’s Thesis: “Point Cloud Up-Sampling and Domain Adaptation” at Valeo Detection Systems
-* Werk-student at Robert Bosch GmbH, Leonberg
 * Backend Developer at Oracle Inc, India (2015-2019)
 * BE in Electrical and Electronics Engineering, VTU, India (2011-2015) 
 
