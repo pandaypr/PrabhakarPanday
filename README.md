@@ -51,6 +51,17 @@
 * Demonstrated ability to collaborate within cross-functional teams and deliver impactful solutions.
 * Skills: SQL, BI, Oracle Cloud, Testing.
 
+
+## Why Research at Fraunhofer IPA?
+* I really enjoyed my thesis at Valeo with professionals around me and I'm amazed by the knowledge/ technical depth they possess.
+* Prospectus of doing a Ph.D in the future.
+* Get an opportunity to publish papers.
+* PhD topic is very exciting.
+
+
+  
+## Projects and Miscellaneous
+
 ### Working Student @ ESG Mobility (Dec 2020 - March 2021)
 * Designed and implemented a customer-side Python-based desktop application for processing and displaying the diagnosis of eSIM inside Porsche Taycan Telecommunication Control Unit (TCU).
 * Facilitated the enhancement of eSIM communication systems in Porsche Taycan vehicles through comprehensive testing and the development of a user-friendly diagnostic tool, ensuring efficient troubleshooting and maintenance.
@@ -58,15 +69,6 @@
 * Skills: Python, ADAS, Tkinter, ADB, Low level Serial Communication Protocol.
 
 
-### Why Research at Fraunhofer IPA?
-* I really enjoyed my thesis at Valeo with professionals around me and I'm amazed by the knowledge/ technical depth they possess.
-* Prospectus of doing a Ph.D in the future.
-* With PhD I can enhance my research skills and gain valuable insights, get an opportunity to publish papers.
-* PhD topic is very exciting.
-
-
-  
-## Projects and Miscellaneous
 ### [Rohde & Schwarz Engineering Competition 2022](https://github.com/pandaypr/Rohde_und_Schwarz_Competition)
 * Led a multidisciplinary team to the finals of the competition by implementing Yolov5 on provided datasets, achieving an outstanding test accuracy of 86.96%.
 * Developed innovative image segmentation techniques for anomaly detection, showcasing expertise in computer vision and machine learning.
