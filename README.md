@@ -1,6 +1,6 @@
 # Self Introduction
 
-### Technical Skills: Python, C++, Pytorch, Sensor Fusion, 3D Mathemtics, Computer Vision, GANs, CNN.
+### Technical Skills: Python, C++, Pytorch, TF, Keras, 3D Mathemtics, Computer Vision, GANs, CNN.
 
 ### Educational Background
 * M.Sc. in Electrical Engineering at University of Stuttgart (2020-2023)
