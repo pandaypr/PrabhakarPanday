@@ -1,12 +1,42 @@
-### Technical Skills: Python, C++, Pytorch, Sensor Fusion, 3D Mathemtics, Computer Vision.
+# Self Introduction
 
-## Work Experience
-### Working Student and [Thesis](src/Smaple_work.pdf) @ Valeo (Jul 2022 - Sept 2023)
+### Technical Skills: Python, C++, Pytorch, Sensor Fusion, 3D Mathemtics, Computer Vision, GANs, CNN.
+
+### Educational Background
+* M.Sc. in Electrical Engineering at University of Stuttgart (2020-2023)
+* Master’s Thesis: “Point Cloud Up-Sampling and Domain Adaptation” at Valeo Detection Systems
+* Werk-student at Robert Bosch GmbH, Leonberg
+* Backend Developer at Oracle Inc, India (2015-2019)
+* BE in Electrical and Electronics Engineering, VTU, India (2011-2015) 
+
+###  [Thesis](src/Smaple_work.pdf) @ Valeo (Jul 2022 - Sept 2023)
 * Engineered an advanced deep learning model for LiDAR point cloud up-sampling, achieving an eightfold increase in point generation and significantly improving resolution.
 * Optimized data management workflows on Google Cloud Platform (GCP), resulting in a 35% reduction in processing time and enhanced operational efficiency.
 * Generated simulated LiDAR point cloud traces using carmaker software, facilitating comprehensive testing and validation processes.
 * Skills: LiDAR, Python, Pytorch, TensorFlow, Keras, ViT, GANs, CNN, Open3D, Point Cloud Processing, 3D Reconstruction, CARLA, ROS, State Estimation, CarMaker, GCP Cloud. 
 
+
+## Research Experience
+
+### [Research Project](https://github.com/pandaypr/HCI-Research-Project), Institute for Visualization and Interactive Systems, University of Stuttgart
+* Developed a conditional GAN-based model for portrait image editing, improving the quality of the edited images by 10% compared to the original paper.
+* Implemented style transfer using gram-matrix loss and component transfer to improve the realism in the generated image.
+
+### [Research Internship](https://github.com/pandaypr/Interpretation-of-Activation-Maps-in-Generative-Models), Institute for Visualization and Interactive Systems, University of Stuttgart
+* Trained CNN-based VAE models for generating facial images, achieving a 90% accuracy rate in image recognition tasks.
+* Implemented Grad-CAM and Guided Grad-CAM techniques, improving model interpretability and achieving a 15% increase in object tracking accuracy.
+* Skilled in applying Grad-CAM and Guided Grad-CAM to VAE and U-net models for tasks such as semantic segmentation, and object recognition.
+
+###  [Aware2All](https://aware2all.eu/about/)
+* Spearheaded pioneering research initiatives in-cabin driver and passenger monitoring systems using RGB and Depth sensors.
+* Implemented state-of-the-art models such as Yolov8 and v7, surpassing performance benchmarks on open-source COCO datasets.
+* Orchestrated dataset recording plans, ensuring comprehensive coverage of boundary conditions and enhancing model robustness.
+* Utilized advanced tools including Kubernetes, ClearML, MLOps, Docker, GIT, Confluence, and Jira to streamline project workflows and collaboration.
+* Skills: Python, SOTA Research, Kubernetes, Docker, MLOPs, ViT.
+
+
+
+### Industry Experience
 ### Working Student @ Robert Bosch (Oct 2021 - April 2022)
 * Contributed to the Engineering System/SW Comfort Functions team within the Honda Lane project for L1 and L2 autonomous driver monitoring.
 * Led the enhancement efforts for the WATSH plugin, which included implementing various features such as lane keeping, lane departure warning, and emergency lane keeping based on road edge detection and oncoming vehicle detection.
@@ -26,28 +56,21 @@
 * Facilitated the enhancement of eSIM communication systems in Porsche Taycan vehicles through comprehensive testing and the development of a user-friendly diagnostic tool, ensuring efficient troubleshooting and maintenance.
 * Demonstrated proficiency in software development and quality assurance processes within the automotive industry.
 * Skills: Python, ADAS, Tkinter, ADB, Low level Serial Communication Protocol.
+
+
+### Why Research at Fraunhofer IPA?
+* I really enjoyed my thesis at Valeo with professionals around me and I'm amazed by the knowledge/ technical depth they possess.
+* Prospectus of doing a Ph.D in the future.
+* With PhD I can enhance my research skills and gain valuable insights, get an opportunity to publish papers.
+* PhD topic is very exciting.
+
+
   
-## Projects
+## Projects and Miscellaneous
 ### [Rohde & Schwarz Engineering Competition 2022](https://github.com/pandaypr/Rohde_und_Schwarz_Competition)
 * Led a multidisciplinary team to the finals of the competition by implementing Yolov5 on provided datasets, achieving an outstanding test accuracy of 86.96%.
 * Developed innovative image segmentation techniques for anomaly detection, showcasing expertise in computer vision and machine learning.
 * Skills: Deep Learning, Python Programming, Rapid prototyping, Team Management, Resource allocation, SOTA Research.
-
-###  [Aware2All](https://aware2all.eu/about/)
-* Spearheaded pioneering research initiatives in-cabin driver and passenger monitoring systems using RGB and Depth sensors.
-* Implemented state-of-the-art models such as Yolov8 and v7, surpassing performance benchmarks on open-source COCO datasets.
-* Orchestrated dataset recording plans, ensuring comprehensive coverage of boundary conditions and enhancing model robustness.
-* Utilized advanced tools including Kubernetes, ClearML, MLOps, Docker, GIT, Confluence, and Jira to streamline project workflows and collaboration.
-* Skills: Python, SOTA Research, Kubernetes, Docker, MLOPs, ViT.
-
-### [Research Project](https://github.com/pandaypr/HCI-Research-Project), Institute for Visualization and Interactive Systems, University of Stuttgart
-* Developed a conditional GAN-based model for portrait image editing, improving the quality of the edited images by 10% compared to the original paper.
-* Implemented style transfer using gram-matrix loss and component transfer to improve the realism in the generated image.
-
-  ### [Research Internship](https://github.com/pandaypr/Interpretation-of-Activation-Maps-in-Generative-Models), Institute for Visualization and Interactive Systems, University of Stuttgart
-* Trained CNN-based VAE models for generating facial images, achieving a 90% accuracy rate in image recognition tasks.
-* Implemented Grad-CAM and Guided Grad-CAM techniques, improving model interpretability and achieving a 15% increase in object tracking accuracy.
-* Skilled in applying Grad-CAM and Guided Grad-CAM to VAE and U-net models for tasks such as semantic segmentation, and object recognition.
 
 ### [Video based tracking of manual process at Construction sites](https://github.com/pandaypr/oculai_P_Challenge)
 The aim of the project was to track the progress of work at a construction site.
@@ -73,10 +96,6 @@ the image and measure the CPU cycles and improve it.
 * Analyzed time series data of a room heater to predict room occupancy, enhancing skills in data analysis and modeling.
 * Utilized Infineon depth sensor camera to generate 3D point cloud from raw data, demonstrating proficiency in advanced technologies.
 * Secured 1st place in the hackathon by demonstrating excellence in problem-solving, data analysis, and utilization of advanced technologies.
-
-## Education
-- M.Sc., Electrical Engineering | University of Stuttgart
-- B.E., Electrical Engineering | VTU
 
 ## Hobbies
 ### Nextcloud Home Server 
