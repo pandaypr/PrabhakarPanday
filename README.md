@@ -3,10 +3,11 @@
 ### Technical Skills: Python, C++, Pytorch, TF, Keras, 3D Mathemtics, Computer Vision, GANs, CNN.
 
 ### Educational Background
-* M.Sc. in Electrical Engineering at University of Stuttgart (2020-2023)
-* Master’s Thesis: “Point Cloud Up-Sampling and Domain Adaptation” at Valeo Detection Systems
+* [M.Sc.](src/MS_Panday_Transcripts.pdf) in Electrical Engineering at University of Stuttgart (2020-2023)
+* Master’s Thesis: [“Point Cloud Up-Sampling and Domain Adaptation”](src/Smaple_work.pdf) at Valeo Detection Systems
 * Backend Developer at Oracle Inc, India (2015-2019)
-* BE in Electrical and Electronics Engineering, VTU, India (2011-2015) 
+* [BE](src/BETranscript.pdf) in Electrical and Electronics Engineering, VTU, India (2011-2015) [Reference 1](LOR_Nagesh_Prabhu_Sir.pdf) [Reference 2](LOR_Suryanarayana_Sir.pdf) [Appreciation](Talk appreciation.pdf)
+* Bachelor's Thesis: ["Multicolor RGB LED Display Board"](Multicolor LED board.pdf)
 
 ###  [Thesis](src/Smaple_work.pdf) @ Valeo (Jul 2022 - Sept 2023)
 * Engineered an advanced deep learning model for LiDAR point cloud up-sampling, achieving an eightfold increase in point generation and significantly improving resolution.
@@ -26,7 +27,7 @@
 * Implemented Grad-CAM and Guided Grad-CAM techniques, improving model interpretability and achieving a 15% increase in object tracking accuracy.
 * Skilled in applying Grad-CAM and Guided Grad-CAM to VAE and U-net models for tasks such as semantic segmentation, and object recognition.
 
-###  [Aware2All](https://aware2all.eu/about/)
+###  [Aware2All](https://aware2all.eu/about/) [Reference](src/Ref_Gestigon.pdf)
 * Spearheaded pioneering research initiatives in-cabin driver and passenger monitoring systems using RGB and Depth sensors.
 * Implemented state-of-the-art models such as Yolov8 and v7, surpassing performance benchmarks on open-source COCO datasets.
 * Orchestrated dataset recording plans, ensuring comprehensive coverage of boundary conditions and enhancing model robustness.
