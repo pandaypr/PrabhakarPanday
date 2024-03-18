@@ -7,7 +7,7 @@
 * Master’s Thesis: [“Point Cloud Up-Sampling and Domain Adaptation”](src/Sample_work.pdf) at Valeo Detection Systems
 * Backend Developer at Oracle Inc, India (2015-2019)
 * [BE](src/BETranscript.pdf) in Electrical and Electronics Engineering, VTU, India (2011-2015) [Reference 1](LOR_Nagesh_Prabhu_Sir.pdf) [Reference 2](LOR_Suryanarayana_Sir.pdf) [Appreciation](Talk appreciation.pdf)
-* Bachelor's Thesis: ["Multicolor RGB LED Display Board"](Multicolor LED board.pdf)
+* Bachelor's Thesis: ["Multicolor RGB LED Display Board"](Multicolor_LED_board.pdf)
 
 ###  [Thesis](src/Sample_work.pdf) @ Valeo (Jul 2022 - Sept 2023)
 * Engineered an advanced deep learning model for LiDAR point cloud up-sampling, achieving an eightfold increase in point generation and significantly improving resolution.
