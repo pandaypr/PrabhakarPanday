@@ -4,12 +4,12 @@
 
 ### Educational Background
 * [M.Sc.](src/MS_Panday_Transcripts.pdf) in Electrical Engineering at University of Stuttgart (2020-2023)
-* Master’s Thesis: [“Point Cloud Up-Sampling and Domain Adaptation”](src/Smaple_work.pdf) at Valeo Detection Systems
+* Master’s Thesis: [“Point Cloud Up-Sampling and Domain Adaptation”](src/Sample_work.pdf) at Valeo Detection Systems
 * Backend Developer at Oracle Inc, India (2015-2019)
 * [BE](src/BETranscript.pdf) in Electrical and Electronics Engineering, VTU, India (2011-2015) [Reference 1](LOR_Nagesh_Prabhu_Sir.pdf) [Reference 2](LOR_Suryanarayana_Sir.pdf) [Appreciation](Talk appreciation.pdf)
 * Bachelor's Thesis: ["Multicolor RGB LED Display Board"](Multicolor LED board.pdf)
 
-###  [Thesis](src/Smaple_work.pdf) @ Valeo (Jul 2022 - Sept 2023)
+###  [Thesis](src/Sample_work.pdf) @ Valeo (Jul 2022 - Sept 2023)
 * Engineered an advanced deep learning model for LiDAR point cloud up-sampling, achieving an eightfold increase in point generation and significantly improving resolution.
 * Optimized data management workflows on Google Cloud Platform (GCP), resulting in a 35% reduction in processing time and enhanced operational efficiency.
 * Generated simulated LiDAR point cloud traces using carmaker software, facilitating comprehensive testing and validation processes.
