@@ -9,24 +9,6 @@
 * [BE](src/BETranscript.pdf) in Electrical and Electronics Engineering, VTU, India (2011-2015) ([Recommendation 1](LOR_Nagesh_Prabhu_Sir.pdf)) ([Recommendation 2](LOR_Suryanarayana_Sir.pdf)) ([Appreciation](Talk_appreciation.pdf))
 * Bachelor's Thesis: ["Multicolor RGB LED Display Board"](Multicolor_LED_board.pdf)
 
-###  [Thesis](src/Sample_work.pdf) @ Valeo (Jul 2022 - Sept 2023)
-* Engineered an advanced deep learning model for LiDAR point cloud up-sampling, achieving an eightfold increase in point generation and significantly improving resolution.
-* Optimized data management workflows on Google Cloud Platform (GCP), resulting in a 35% reduction in processing time and enhanced operational efficiency.
-* Generated simulated LiDAR point cloud traces using carmaker software, facilitating comprehensive testing and validation processes.
-* Skills: LiDAR, Python, Pytorch, TensorFlow, Keras, ViT, GANs, CNN, Open3D, Point Cloud Processing, 3D Reconstruction, CARLA, ROS, State Estimation, CarMaker, GCP Cloud. 
-
-
-## Research Experience
-
-### [Research Project](https://github.com/pandaypr/HCI-Research-Project), Institute for Visualization and Interactive Systems, University of Stuttgart
-* Developed a conditional GAN-based model for portrait image editing, improving the quality of the edited images by 10% compared to the original paper.
-* Implemented style transfer using gram-matrix loss and component transfer to improve the realism in the generated image.
-
-### [Research Internship](https://github.com/pandaypr/Interpretation-of-Activation-Maps-in-Generative-Models), Institute for Visualization and Interactive Systems, University of Stuttgart
-* Trained CNN-based VAE models for generating facial images, achieving a 90% accuracy rate in image recognition tasks.
-* Implemented Grad-CAM and Guided Grad-CAM techniques, improving model interpretability and achieving a 15% increase in object tracking accuracy.
-* Skilled in applying Grad-CAM and Guided Grad-CAM to VAE and U-net models for tasks such as semantic segmentation, and object recognition.
-
 ###  [Aware2All](https://aware2all.eu/about/) ([Letter of Reference](src/Ref_Gestigon.pdf))
 * Spearheaded pioneering research initiatives in-cabin driver and passenger monitoring systems using RGB and Depth sensors.
 * Implemented state-of-the-art models such as Yolov8 and v7, surpassing performance benchmarks on open-source COCO datasets.
@@ -34,7 +16,11 @@
 * Utilized advanced tools including Kubernetes, ClearML, MLOps, Docker, GIT, Confluence, and Jira to streamline project workflows and collaboration.
 * Skills: Python, SOTA Research, Kubernetes, Docker, MLOPs, ViT.
 
-
+###  [Thesis](src/Sample_work.pdf) @ Valeo (Jul 2022 - Sept 2023)
+* Engineered an advanced deep learning model for LiDAR point cloud up-sampling, achieving an eightfold increase in point generation and significantly improving resolution.
+* Optimized data management workflows on Google Cloud Platform (GCP), resulting in a 35% reduction in processing time and enhanced operational efficiency.
+* Generated simulated LiDAR point cloud traces using carmaker software, facilitating comprehensive testing and validation processes.
+* Skills: LiDAR, Python, Pytorch, TensorFlow, Keras, ViT, GANs, CNN, Open3D, Point Cloud Processing, 3D Reconstruction, CARLA, ROS, State Estimation, CarMaker, GCP Cloud. 
 
 ### Industry Experience
 ### Working Student @ Robert Bosch (Oct 2021 - April 2022)
@@ -50,14 +36,16 @@
 * Achieved a 30% reduction in testing time for Fusion T&L software releases.
 * Demonstrated ability to collaborate within cross-functional teams and deliver impactful solutions.
 * Skills: SQL, BI, Oracle Cloud, Testing.
+## Research Experience
 
+### [Research Project](https://github.com/pandaypr/HCI-Research-Project), Institute for Visualization and Interactive Systems, University of Stuttgart
+* Developed a conditional GAN-based model for portrait image editing, improving the quality of the edited images by 10% compared to the original paper.
+* Implemented style transfer using gram-matrix loss and component transfer to improve the realism in the generated image.
 
-## Why Research at Fraunhofer IPA?
-* I really enjoyed my thesis at Valeo with professionals around me and I'm amazed by the knowledge/ technical depth they possess.
-* Prospectus of doing a Ph.D in the future.
-* Get an opportunity to publish papers.
-* PhD topic is very exciting.
-
+### [Research Internship](https://github.com/pandaypr/Interpretation-of-Activation-Maps-in-Generative-Models), Institute for Visualization and Interactive Systems, University of Stuttgart
+* Trained CNN-based VAE models for generating facial images, achieving a 90% accuracy rate in image recognition tasks.
+* Implemented Grad-CAM and Guided Grad-CAM techniques, improving model interpretability and achieving a 15% increase in object tracking accuracy.
+* Skilled in applying Grad-CAM and Guided Grad-CAM to VAE and U-net models for tasks such as semantic segmentation, and object recognition.
 
   
 ## Projects and Miscellaneous
