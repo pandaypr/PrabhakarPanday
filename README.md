@@ -2,6 +2,8 @@
 
 ### Technical Skills: Python, C++, Pytorch, TF, Keras, 3D Mathemtics, Computer Vision, GANs, CNN.
 
+## [CV](Prabhakar_Panday.pdf)
+
 ### Educational Background
 * [M.Sc.](src/MS_Panday_Transcripts.pdf) in Electrical Engineering at University of Stuttgart (2020-2023)
 * Master’s Thesis: [“Point Cloud Up-Sampling and Domain Adaptation”](src/Sample_work.pdf) at Valeo Detection Systems
