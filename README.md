@@ -11,7 +11,7 @@
 * [BE](src/BETranscript.pdf) in Electrical and Electronics Engineering, VTU, India (2011-2015) ([Recommendation 1](LOR_Nagesh_Prabhu_Sir.pdf)) ([Recommendation 2](LOR_Suryanarayana_Sir.pdf)) ([Appreciation](Talk_appreciation.pdf))
 * Bachelor's Thesis: ["Multicolor RGB LED Display Board"](Multicolor_LED_board.pdf)
 
-###  [Aware2All](https://aware2all.eu/about/) ([Letter of Reference](src/Ref_Gestigon.pdf))
+###  [Aware2All](https://aware2all.eu/about/) @Gestigon GmbH ([Letter of Reference](src/Ref_Gestigon.pdf))
 * Spearheaded pioneering research initiatives in-cabin driver and passenger monitoring systems using RGB and Depth sensors.
 * Implemented state-of-the-art models such as Yolov8 and v7, surpassing performance benchmarks on open-source COCO datasets.
 * Orchestrated dataset recording plans, ensuring comprehensive coverage of boundary conditions and enhancing model robustness.
